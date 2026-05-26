@@ -1,6 +1,6 @@
 # superstore Sales - Exploratory Data Analysis
 
-![Dashboard](excel/Superstore_Sales_Summary_Page.png)
+![Dashboard](superstore-eda/excel/Superstore_Sales_Summary_Page.png)
 
 ## Overview
 Exploratory data analysis of 9,800 US retail orders from a sample superstore dataset covering 2015–2018.
@@ -18,8 +18,8 @@ Analysed using Excel to uncover regional sales patterns, customer behaviour, and
 - Microsoft Excel for data cleaning, PivotTables, charts, and dashboard.
 
 ## Files
-- [Superstore Analysis Workbook](excel/Superstore_Analysis.xlsx) — Excel workbook with cleaned data, PivotTables, and summary dashboard
-- [Raw Dataset](data/train.csv) — raw dataset (Sample Superstore, via Kaggle)
+- [Superstore Analysis Workbook](superstore-eda/excel/Superstore_Analysis.xlsx) — Excel workbook with cleaned data, PivotTables, and summary dashboard
+- [Raw Dataset](superstore-eda/data/train.csv) — raw dataset (Sample Superstore, via Kaggle)
 
 ## Data Cleaning
 - 11 missing postal codes (Burlington, VT) →  Filled with 05401 
