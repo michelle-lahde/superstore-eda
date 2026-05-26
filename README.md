@@ -1,4 +1,4 @@
-# superstore Sales - Exploratory Data Analysis
+# Superstore Sales - Exploratory Data Analysis
 
 ![Dashboard](superstore-eda/excel/Superstore_Sales_Summary_Page.png)
 
